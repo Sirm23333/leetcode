@@ -39,6 +39,7 @@ public class Test_665 {
         // 返回true的条件
         // 1.无折点
         // 2.无普通折点，且有且只有一个Z型折点，且两个点中至少有一个右点大于等于左点
+        // Z折点即 点i和i+1，满足nums[i-1]<mums[i]>nums[i+1]<nums[i+2] , 则i和i+1构成一个Z折点
         boolean hasZPoint = false; // 记录是否找到了一个满足条件的Z折点
         for(int i = 1; i < newNums.length - 1; i++){
             if(newNums[i] > newNums[i + 1]){ // 出现折点，有向下的趋势

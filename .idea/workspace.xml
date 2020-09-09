@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef4d07e-551e-41cf-859b-6e529abb5bb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/md/非递减数列P665.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primary/Test_475.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primary/Test_605.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primary/Test_859.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/primary/Test_665.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/primary/Test_665.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/primary/Test_665.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primary/Test_665.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test_665">
+  <component name="RunManager" selected="Application.Test_475">
     <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="huawei.Test2" />
       <module name="leetcode" />
@@ -68,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_0822.Test3" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zhaoyin.Test3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_0822.*" />
+          <option name="PATTERN" value="zhaoyin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhaoyin.Test3" />
+    <configuration name="Test_475" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primary.Test_475" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zhaoyin.*" />
+          <option name="PATTERN" value="primary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_475" />
         <item itemvalue="Application.Test_665" />
         <item itemvalue="Application.test3" />
         <item itemvalue="Application.Test3" />
         <item itemvalue="Application.Test2 (1)" />
-        <item itemvalue="Application.Test3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +161,7 @@
       <workItem from="1598440628038" duration="5873000" />
       <workItem from="1599373986989" duration="8647000" />
       <workItem from="1599463288014" duration="6169000" />
-      <workItem from="1599547927703" duration="2897000" />
+      <workItem from="1599547927703" duration="8542000" />
     </task>
     <servers />
   </component>
