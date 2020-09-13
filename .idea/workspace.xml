@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef4d07e-551e-41cf-859b-6e529abb5bb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/Test_79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/Test_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/Test_39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/Test_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/Test_40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test_846">
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhaoyin.Test3" />
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zhaoyin.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test_846" />
         <item itemvalue="Application.Test_475" />
         <item itemvalue="Application.Test_665" />
         <item itemvalue="Application.test3" />
-        <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +163,8 @@
       <workItem from="1599547927703" duration="9939000" />
       <workItem from="1599710254271" duration="5747000" />
       <workItem from="1599794998314" duration="1880000" />
-      <workItem from="1599887906233" duration="6066000" />
+      <workItem from="1599887906233" duration="6305000" />
+      <workItem from="1599984708205" duration="3933000" />
     </task>
     <servers />
   </component>
