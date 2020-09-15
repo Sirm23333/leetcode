@@ -74,17 +74,4 @@ public class Test_37 {
         return (i / 3) * 3 + (j / 3);
     }
 
-    public static void test(char[] cs){
-        cs[0] = '1';
-    }
-
-    public static void main(String[] args) {
-        char[] c = new char[2];
-        boolean[][] row = new boolean[N][N];
-        c[0] = '2';
-        System.out.println(c[0]);
-        test(c);
-        System.out.println(c[0]);
-
-    }
 }
