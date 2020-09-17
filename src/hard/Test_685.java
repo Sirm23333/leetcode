@@ -41,4 +41,51 @@ package hard;
  *
  */
 public class Test_685 {
+
+    public  int[] findRedundantDirectedConnection(int[][] edges) {
+        int[] father = new int[edges.length + 1];
+        father[0] = -1;
+        int[] tmp = null , ring = null;
+        for(int[] edge : edges){
+            int from = edge[0];
+            int to = edge[1];
+            if(father[to] > 0){
+                // 冲突
+                tmp = edge;
+            }else {
+                // 判断是否有环
+                int p = from;
+                boolean[] visited = new boolean[father.length + 1];
+                while(p > 0){
+                    if(visited[p]){
+                        break;
+                    }
+                    visited[p] = true;
+                    if(p == to){
+                        ring = edge;
+                        break;
+                    }
+                    p = father[p];
+                }
+                father[to] = from;
+            }
+        }
+        if(tmp == null){
+            return ring;
+        }
+        if(ring == null){
+            return tmp;
+        }else {
+            tmp[0] = father[tmp[1]];
+            return tmp;
+        }
+    }
+
+//    public static void main(String[] args) {
+//        int[][] edges = {{1,2},{2,3},{3,4},{4,1},{1,5}};
+//
+//        int[] redundantDirectedConnection = findRedundantDirectedConnection(edges);
+//        System.out.println(redundantDirectedConnection[0] + " " + redundantDirectedConnection[1]);
+//    }
+
 }

@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef4d07e-551e-41cf-859b-6e529abb5bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/md/冗余连接IIH685.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hard/Test_685.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/Test_95.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/md/冗余连接IIH685.md" beforeDir="false" afterPath="$PROJECT_DIR$/md/冗余连接IIH685.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hard/Test_685.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/Test_685.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test_37">
+  <component name="RunManager" selected="Application.Test_685">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Test1" />
       <module name="leetcode" />
@@ -97,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_665" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primary.Test_665" />
+    <configuration name="Test_685" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hard.Test_685" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primary.*" />
+          <option name="PATTERN" value="hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_685" />
         <item itemvalue="Application.Test_37" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test_846" />
         <item itemvalue="Application.Test_475" />
-        <item itemvalue="Application.Test_665" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +165,7 @@
       <workItem from="1599984708205" duration="3996000" />
       <workItem from="1600061043275" duration="4111000" />
       <workItem from="1600143091583" duration="11505000" />
-      <workItem from="1600268176969" duration="8577000" />
+      <workItem from="1600268176969" duration="15057000" />
     </task>
     <servers />
   </component>
