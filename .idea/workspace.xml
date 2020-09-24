@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef4d07e-551e-41cf-859b-6e529abb5bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/md/监控二叉树H968.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hard/Test_968.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primary/Test_617.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primary/Test_501.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Test2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test2">
+  <component name="RunManager" selected="Application.Test_501">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Test1" />
       <module name="leetcode" />
@@ -98,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test_501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primary.Test_501" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test_685" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hard.Test_685" />
       <module name="leetcode" />
@@ -111,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_846" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Test_846" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_501" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test_685" />
         <item itemvalue="Application.Test_37" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test_846" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +167,8 @@
       <workItem from="1600420812398" duration="9392000" />
       <workItem from="1600507105389" duration="2909000" />
       <workItem from="1600667081316" duration="6649000" />
-      <workItem from="1600752332105" duration="19798000" />
+      <workItem from="1600752332105" duration="19823000" />
+      <workItem from="1600957302148" duration="2049000" />
     </task>
     <servers />
   </component>
