@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef4d07e-551e-41cf-859b-6e529abb5bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/medium/Test_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/Test_18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,13 +57,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LCP_19">
+  <component name="RunManager" selected="Application.Offer_59_1">
     <configuration name="LCP_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.LCP_19" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Offer_59_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primary.Offer_59_1" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="primary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_685" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hard.Test_685" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Offer_59_1" />
         <item itemvalue="Application.LCP_19" />
         <item itemvalue="Application.Test_106" />
         <item itemvalue="Application.Test_501" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test_685" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +178,8 @@
       <workItem from="1601346943788" duration="8075000" />
       <workItem from="1601438626958" duration="3052000" />
       <workItem from="1601718187810" duration="11316000" />
-      <workItem from="1601796899170" duration="692000" />
+      <workItem from="1601796899170" duration="5244000" />
+      <workItem from="1601875234701" duration="6976000" />
     </task>
     <servers />
   </component>
