@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef4d07e-551e-41cf-859b-6e529abb5bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/md/hard_834. 树中距离之和.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hard/Test_834.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/Test_75.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +180,8 @@
       <workItem from="1601718187810" duration="11316000" />
       <workItem from="1601796899170" duration="5244000" />
       <workItem from="1601875234701" duration="7630000" />
-      <workItem from="1601948186402" duration="6281000" />
+      <workItem from="1601948186402" duration="6315000" />
+      <workItem from="1602044794621" duration="1549000" />
     </task>
     <servers />
   </component>
