@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ef4d07e-551e-41cf-859b-6e529abb5bb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/primary/Test_977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primary/Test_1365.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../阿里比赛/mini-faas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new_shaobing" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -187,7 +187,11 @@
       <workItem from="1602401648221" duration="3545000" />
       <workItem from="1602479112992" duration="4384000" />
       <workItem from="1602565954167" duration="2332000" />
-      <workItem from="1602820220376" duration="151000" />
+      <workItem from="1602820220376" duration="2338000" />
+      <workItem from="1603020425022" duration="1852000" />
+      <workItem from="1603247986335" duration="1085000" />
+      <workItem from="1603454015356" duration="1934000" />
+      <workItem from="1603676391075" duration="1861000" />
     </task>
     <servers />
   </component>
